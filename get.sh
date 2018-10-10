@@ -3,7 +3,7 @@
 COMP=(295 297)
 TIPO_NACIONAL=(c0001)
 TIPO_ESTADUAL=(c0003 c0005 c0006 c0007)
-ESTADO=(rs pr sc go ms mt df sp rj es ba se al pb rn ma pe pa rr ro am ac ap to)
+ESTADO=(rs pr sc go ms mt df sp rj es ba se al pb rn ce ma pe pa rr ro am ac ap to)
 #ESTADO=(rs pr)
 
 for tipo in ${TIPO_NACIONAL[*]}
